@@ -1,6 +1,8 @@
 # Offline head gesture detection for analysis of self-disclosure
 
-This project was a contribution to the work on multimodal analysis and estimation of intimate self-disclosure. In particular, I trained head nod and head shake detectors. The detectors input head rotation angles (pitch and yaw) extracted from videos using OpenFace and output binary predictions of nod and shake head gestures on a frame-by-frame basis. This work led to a **conference paper**:
+This project was a contribution to the work on multimodal analysis and estimation of intimate self-disclosure. In particular, I trained head nod and head shake detectors. The detectors input head rotation angles (pitch and yaw) extracted from videos using OpenFace and output binary predictions of nod and shake head gestures on a frame-by-frame basis. 
+
+This work led to a **conference paper**:
 
 > Mohammad Soleymani, Kalin Stefanov, Sin-Hwa Kang, **Jan Ondras**, and Jonathan Gratch<br>
 > [*Multimodal Analysis and Estimation of Intimate Self-Disclosure*](https://dl.acm.org/doi/abs/10.1145/3340555.3353737)<br>
